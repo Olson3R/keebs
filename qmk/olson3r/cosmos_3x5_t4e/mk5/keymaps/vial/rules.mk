@@ -1,0 +1,10 @@
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+
+SERIAL_DRIVER = vendor
+
+TAP_DANCE_ENABLE = yes
+
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+# LTO_ENABLE = yes
