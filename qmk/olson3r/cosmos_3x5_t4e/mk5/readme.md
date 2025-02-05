@@ -1,6 +1,6 @@
 # olson3r/cosmos_3x5_t4e/mk5
 
-![olson3r/cosmos_3x5_t4e/mk5](imgur.com image replace me!)
+[Spidermo Special V1](https://ryanis.cool/cosmos/showcase/4d3652f2/) Note: no trackball
 
 *A short description of the keyboard/project*
 
